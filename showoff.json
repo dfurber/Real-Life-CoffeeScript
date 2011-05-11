@@ -1,0 +1,8 @@
+{ 
+  "name": "Real Life CoffeeScript", 
+  "sections": [ 
+    {"section":"what-is-cs"}, 
+    {"section":"cs-features"}, 
+    {"section":"cs-resistance"}
+  ]
+}

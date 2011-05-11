@@ -1,0 +1,17 @@
+body {
+    background:gray;
+}
+
+.content {
+    padding:10px;
+}
+
+blockquote {
+    font-style:italic;
+    font-size:24px;
+    padding:40px;
+}
+
+pre {
+    font-size:16px;
+}
